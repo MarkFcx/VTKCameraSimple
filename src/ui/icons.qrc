@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="">
+        <file>/home/cxfeng/Documents/AIBone/AIBone/icon/load.png</file>
+        <file>/home/cxfeng/Documents/AIBone/AIBone/icon/load_.png</file>
+        <file>/home/cxfeng/Documents/AIBone/AIBone/icon/on.png</file>
+        <file>/home/cxfeng/Documents/AIBone/AIBone/icon/off.png</file>
+        <file>/home/cxfeng/Documents/AIBone/AIBone/icon/on_.png</file>
+        <file>/home/cxfeng/Documents/AIBone/AIBone/icon/off_.png</file>
+
+        <file>/home/cxfeng/Documents/AIBone/AIBone/icon/photo.png</file>
+        <file>/home/cxfeng/Documents/AIBone/AIBone/icon/photo_.png</file>
+        <file>/home/cxfeng/Documents/AIBone/AIBone/icon/pdf.png</file>
+        <file>/home/cxfeng/Documents/AIBone/AIBone/icon/pdf_.png</file>
+        <file>/home/cxfeng/Documents/AIBone/AIBone/icon/resetCamera.png</file>
+        <file>/home/cxfeng/Documents/AIBone/AIBone/icon/resetCamera_.png</file>
+
+        <file>/home/cxfeng/Documents/AIBone/AIBone/icon/plus.png</file>
+        <file>/home/cxfeng/Documents/AIBone/AIBone/icon/less.png</file>
+        <file>/home/cxfeng/Documents/AIBone/AIBone/icon/plus2.png</file>
+        <file>/home/cxfeng/Documents/AIBone/AIBone/icon/plus2_.png</file>
+        <file>/home/cxfeng/Documents/AIBone/AIBone/icon/less2.png</file>
+        <file>/home/cxfeng/Documents/AIBone/AIBone/icon/less2_.png</file>
+        <file>/home/cxfeng/Documents/AIBone/AIBone/icon/plus3.png</file>
+        <file>/home/cxfeng/Documents/AIBone/AIBone/icon/plus3_.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
